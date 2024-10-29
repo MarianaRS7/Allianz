@@ -5,6 +5,7 @@ pandas
 seaborn
 matplotlib
 yfinance
-datetimegoogletrans
+datetime
+googletrans
 numpy
 
