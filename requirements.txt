@@ -4,3 +4,7 @@ requests
 pandas
 seaborn
 matplotlib
+yfinance
+datetimegoogletrans
+numpy
+
