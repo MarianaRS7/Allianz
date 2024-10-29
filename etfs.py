@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 from googletrans import Translator
 import numpy as np
 
-# Inicializar el traductor
+# Inicializar el traductor de Google
 translator = Translator()
 
 # Lista de nombres de ETFs y sus símbolos
